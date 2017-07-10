@@ -1,6 +1,6 @@
-D:\development\allok\echo62\core\src\main\java\com\aem\community\core\listeners\SimpleResourceListener.java
-D:\development\allok\echo62\core\src\main\java\com\aem\community\core\package-info.java
-D:\development\allok\echo62\core\src\main\java\com\aem\community\core\schedulers\SimpleScheduledTask.java
-D:\development\allok\echo62\core\src\main\java\com\aem\community\core\filters\LoggingFilter.java
-D:\development\allok\echo62\core\src\main\java\com\aem\community\core\models\HelloWorldModel.java
-D:\development\allok\echo62\core\src\main\java\com\aem\community\core\servlets\SimpleServlet.java
+C:\Users\w36131\git\echo62\echo62\core\src\main\java\com\aem\community\core\filters\LoggingFilter.java
+C:\Users\w36131\git\echo62\echo62\core\src\main\java\com\aem\community\core\schedulers\SimpleScheduledTask.java
+C:\Users\w36131\git\echo62\echo62\core\src\main\java\com\aem\community\core\package-info.java
+C:\Users\w36131\git\echo62\echo62\core\src\main\java\com\aem\community\core\listeners\SimpleResourceListener.java
+C:\Users\w36131\git\echo62\echo62\core\src\main\java\com\aem\community\core\models\HelloWorldModel.java
+C:\Users\w36131\git\echo62\echo62\core\src\main\java\com\aem\community\core\servlets\SimpleServlet.java
